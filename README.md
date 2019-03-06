@@ -1,2 +1,2 @@
-# api-voloo
-API for the Voloo Apphttps://github.com/pedrohperalta/voloo
+# Voloo API
+API for the [Voloo App](https://github.com/pedrohperalta/voloo)
